@@ -10,7 +10,7 @@ repositório para dessafio de conexão com MySql na nuvem Azure
   ---
 * Correção dos scripts e inserção dos dados(obs: scripts corrigidos abaixo):
   ---
-  [Scripts de banco corrigidos]()
+  [Scripts de banco corrigidos](https://github.com/FredOnBrasil/LabProject-LimpezaETransforma-oDadosFromMysqlOnAzure/blob/main/ImagensLabProject/01-conectando%20ao%20banco%20mysql.png)
   ---
 * Conexão com o power BI após horas de problemas com o conector do Mysql
   ---
