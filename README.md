@@ -10,17 +10,17 @@ repositório para dessafio de conexão com MySql na nuvem Azure
   ---
 * Correção dos scripts e inserção dos dados(obs: scripts corrigidos abaixo):
   ---
-    [Scripts de banco corrigidos 1]()
+    [Scripts de banco corrigidos 1](https://github.com/FredOnBrasil/LabProject-LimpezaETransforma-oDadosFromMysqlOnAzure/blob/main/ImagensLabProject/script01.png)
   ---
-    [Scripts de banco corrigidos 2]()
+    [Scripts de banco corrigidos 2](https://github.com/FredOnBrasil/LabProject-LimpezaETransforma-oDadosFromMysqlOnAzure/blob/main/ImagensLabProject/script02.png)
   ---
-    [Scripts de banco corrigidos 3]()
+    [Scripts de banco corrigidos 3](https://github.com/FredOnBrasil/LabProject-LimpezaETransforma-oDadosFromMysqlOnAzure/blob/main/ImagensLabProject/script03.png)
   ---
-    [Scripts de banco corrigidos 4]()
+    [Scripts de banco corrigidos 4](https://github.com/FredOnBrasil/LabProject-LimpezaETransforma-oDadosFromMysqlOnAzure/blob/main/ImagensLabProject/script04.png)
   ---
-    [Scripts de banco corrigidos 5]()
+    [Scripts de banco corrigidos 5](https://github.com/FredOnBrasil/LabProject-LimpezaETransforma-oDadosFromMysqlOnAzure/blob/main/ImagensLabProject/script05.png)
   ---
-    [Scripts de banco corrigidos 6]()
+    [Scripts de banco corrigidos 6](https://github.com/FredOnBrasil/LabProject-LimpezaETransforma-oDadosFromMysqlOnAzure/blob/main/ImagensLabProject/script06.png)
   ---
 * Conexão com o power BI após horas de problemas com o conector do Mysql
   ---
@@ -33,3 +33,7 @@ repositório para dessafio de conexão com MySql na nuvem Azure
 * carregando os dados iniciais do mysql presente na nuvem azure
   ---
   [carregando os dados das tabelas](https://github.com/FredOnBrasil/LabProject-LimpezaETransforma-oDadosFromMysqlOnAzure/blob/main/ImagensLabProject/01-conectando%20ao%20banco%20mysql.png)
+  ---
+  [transformando os dados]()
+  ---
+  [apresentando o relatório com algumas informações]()
