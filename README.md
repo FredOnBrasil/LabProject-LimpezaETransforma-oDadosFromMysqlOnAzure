@@ -34,6 +34,7 @@ repositório para dessafio de conexão com MySql na nuvem Azure
   ---
   [carregando os dados das tabelas](https://github.com/FredOnBrasil/LabProject-LimpezaETransforma-oDadosFromMysqlOnAzure/blob/main/ImagensLabProject/01-conectando%20ao%20banco%20mysql.png)
   ---
-  [transformando os dados]()
+  [transformando os dados](https://github.com/FredOnBrasil/LabProject-LimpezaETransforma-oDadosFromMysqlOnAzure/blob/main/ImagensLabProject/02-Transforma%C3%A7%C3%A3o%20de%20dados.png)
   ---
   [apresentando o relatório com algumas informações]()
+  ---
